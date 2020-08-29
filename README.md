@@ -1,5 +1,5 @@
 # VerbalCoding-Master
-Verbal Coding is a combined verbal programming language and platform, which empowers visually impaired people to engage in coding for recreational, educational, and profressional uses.
+Verbal Coding is a combined verbal programming language and platform, which empowers visually impaired people to engage in coding for recreational, educational, and professional uses.
 
 The app includes a proprietary pipeline that converts between verbal programming language and a mainstream language (currently Python, Java, JavaScript are supported). This way, visually impaired users are integrated with existing software engineering teams.
 
